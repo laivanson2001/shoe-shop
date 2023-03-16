@@ -1,0 +1,75 @@
+const Sdata = {
+	shopItems: [
+		{
+			id: 7,
+			cover: "./images/shops/shops-1.jpg",
+			name: "Orient FAG02005W0 Nam Cơ Tự Động",
+			price: 6790000,
+			discount: "25",
+		},
+		{
+			id: 8,
+			cover: "./images/shops/shops-2.jpg",
+			name: "Orient RA-AA0B02R19B Nam Cơ Tự Động",
+			price: 7800000,
+			discount: "10",
+		},
+		{
+			id: 9,
+			cover: "./images/shops/shops-3.jpg",
+			name: "Orient RA-AR0004S10B Nam Cơ Tự Động",
+			price: 9050000,
+			discount: "50",
+		},
+		{
+			id: 10,
+			cover: "./images/shops/shops-4.jpg",
+			name: "Orient RA-AR0001S10B Nam Cơ Tự Động",
+			price: 11760000,
+			discount: "10",
+		},
+		{
+			id: 11,
+			cover: "./images/shops/shops-5.jpg",
+			name: "Orient RA-AG0003S10B Nam Cơ Tự Động",
+			price: 9160000,
+			discount: "20",
+		},
+		{
+			id: 6,
+			cover: "./images/shops/shops-6.jpg",
+			name: "Orient FAG00002W0 Nam Cơ Tự Động",
+			price: 8690000,
+			discount: "20",
+		},
+		{
+			id: 12,
+			cover: "./images/shops/shops-7.jpg",
+			name: "Orient RA-AG0430S00B Nam Cơ Tự Động",
+			price: 11800000,
+			discount: "20",
+		},
+		{
+			id: 13,
+			cover: "./images/shops/shops-8.jpg",
+			name: "Citizen NH8354-58A Nam Cơ Tự Động",
+			price: 6585000,
+			discount: "5",
+		},
+		{
+			id: 14,
+			cover: "./images/shops/shops-9.jpg",
+			name: "Orient RA-AR0005Y10B Nam Cơ Tự Động",
+			price: 9050000,
+			discount: "10",
+		},
+		{
+			id: 15,
+			cover: "./images/shops/shops-10.jpg",
+			name: "Orient FAG02003W0 Nam Cơ Tự Động",
+			price: 7330000,
+			discount: "2",
+		},
+	],
+};
+export default Sdata;
